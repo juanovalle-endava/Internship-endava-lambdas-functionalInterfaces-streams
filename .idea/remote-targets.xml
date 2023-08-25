@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="WSL" type="wsl" uuid="b3084043-aef5-4756-b9c5-1cf47bc155f4">
+        <config>
+          <option name="distributionMsId" value="Ubuntu" />
+        </config>
+        <ContributedStateBase type="JavaLanguageRuntime">
+          <config>
+            <option name="homePath" value="/usr/lib/jvm/java-17-openjdk-amd64" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
